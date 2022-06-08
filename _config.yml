@@ -34,6 +34,7 @@ url: https://catoverhat.github.io  # the base hostname and protocol for your sit
 
 # Build settings
 theme: jekyll-theme-minimal
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 
