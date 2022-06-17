@@ -1,4 +1,7 @@
-# freeCodeCamp
+---
+layout: home
+title: "freeCodeCamp"
+---
 
 This repo contains my final projects solutions for web-related cources I've done on [freeCodeCamp](https://www.freecodecamp.org) in 2022.
 
@@ -93,8 +96,8 @@ This repo contains my final projects solutions for web-related cources I've done
 </tr>
 </thead>
 <tbody><tr>
-<td><a target="_blank" rel="noreferrer" href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page">Build a Tribute Page</a></td>
-<td><a href="./web/tribute">./web/tribute</a></td>
+<td><a target="_blank" rel="noreferrer" href="">Linear regression</a></td>
+<td><a href="https://github.com/catoverhat/Predictive-Analytics-for-Business/blob/main/Linear%20regression/linear_regression_exaplem.ipynb">Linear regression</a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noreferrer" href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form">Build a Survey Form</a></td>
