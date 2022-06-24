@@ -97,7 +97,7 @@ This repo contains my final projects solutions for web-related cources I've done
 </thead>
 <tbody><tr>
 <td><a target="_blank" rel="noreferrer" href="">Linear regression</a></td>
-<td><a href="https://github.com/catoverhat/Predictive-Analytics-for-Business/blob/main/Linear%20regression/Predicting_Diamond_Prices.ipynb">Linear regression</a></td>
+<td><a href="https://github.com/catoverhat/Predictive-Analytics-for-Business/blob/main/Linear%20regression/Predicting_Catalog_Demand.ipynb">Linear regression</a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noreferrer" href="https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form">Build a Survey Form</a></td>
